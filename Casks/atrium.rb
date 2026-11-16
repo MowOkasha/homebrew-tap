@@ -1,6 +1,6 @@
 cask "atrium" do
-  version "1.0.0"
-  sha256 "ca70f4fe9341c6bd86353d030195b8077819bf2e104455bc55ee97abbcb3b4d6"
+  version "1.0.1"
+  sha256 "29887dda4e21852cf6ccbeb2d3375f6b7302f2ea69252e48290a14d17a9e42fd"
 
   url "https://github.com/MowOkasha/atrium/releases/download/v#{version}/Atrium-#{version}.zip"
   name "Atrium"
